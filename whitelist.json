@@ -1,6 +1,6 @@
 {
   "whitelisted": [
-    "cff0e407-9643-44de-ad43-0af302f3f8c4", -- Your client ID
-    "cff0e407-9643-44de-ad43-0af302f3f8c4"  -- Approved user's client ID
+    "cff0e407-9643-44de-ad43-0af302f3f8c4",
+    "cff0e407-9643-44de-ad43-0af302f3f8c4"
   ]
 }
